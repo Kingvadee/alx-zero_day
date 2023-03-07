@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!bin/bash
 ALX School
+=======
+#!/bin/bash
+AlX School is so cool!
+>>>>>>> master
